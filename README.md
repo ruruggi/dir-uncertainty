@@ -1,5 +1,7 @@
 # dir-uncertainty
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24031479.svg)](https://doi.org/10.5281/zenodo.24031479)
+
 Code accompanying the article
 
 > R. Ruggieri, N. Bianchi, S. Naccarato, R. Ruggieri.
@@ -108,4 +110,5 @@ Folders `C12`, `C13`, `C17` and `C22` hold supporting analyses quoted in the tex
 ## License and citation
 
 Apache License 2.0 (`LICENSE`); third-party code and its MIT license are listed in `NOTICE`.
-If you use this code, please cite the article above (`CITATION.cff`).
+If you use this code, please cite the article above (`CITATION.cff`). The code is archived on Zenodo:
+doi:[10.5281/zenodo.24031479](https://doi.org/10.5281/zenodo.24031479) (all versions).

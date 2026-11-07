@@ -3,6 +3,8 @@ message: "If you use this code, please cite the article below."
 title: "dir-uncertainty: closed-form, engine-portable uncertainty prediction of deformable image registration"
 type: software
 license: Apache-2.0
+doi: 10.5281/zenodo.24031479
+repository-code: "https://github.com/ruruggi/dir-uncertainty"
 authors:
   - family-names: Ruggieri
     given-names: Riccardo
