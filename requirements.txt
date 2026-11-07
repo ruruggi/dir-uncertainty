@@ -1,0 +1,29 @@
+# Versions of the environment in which the published results were computed
+# (Python 3.11.2, Windows, NVIDIA GPU).
+#
+# PyTorch: install the CUDA build that matches your driver first, e.g.
+#   pip install torch==2.0.1 --index-url https://download.pytorch.org/whl/cu117
+# (the results were computed with torch 2.0.1+cu117), then:
+#   pip install -r requirements.txt
+
+numpy==1.26.4
+scipy==1.15.3
+pandas==3.0.1
+matplotlib==3.10.8
+pillow==12.0.0
+scikit-image==0.26.0
+scikit-learn==1.8.0
+pydicom==3.0.1
+nibabel==5.4.2
+pynrrd==1.1.3
+MedPy==0.5.2
+simpleitk==2.5.3
+torch==2.0.1
+
+# Registration engines
+antspyx==0.6.3          # ANTs SyN / SyNRA
+itk==5.4.6
+itk-elastix==0.25.3     # Elastix B-spline
+convexAdam==0.2.0       # ConvexAdam (MIND-SSC)
+unigradicon==1.0.5      # uniGradICON foundation model
+icon_registration==1.1.8

@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "dir-uncertainty: closed-form, engine-portable uncertainty prediction of deformable image registration"
+type: software
+license: Apache-2.0
+authors:
+  - family-names: Ruggieri
+    given-names: Riccardo
+    affiliation: "Department of Mathematics, Technical University of Munich, Garching bei München, Germany"
+  - family-names: Bianchi
+    given-names: Nicola
+    affiliation: "Department of Advanced Radiation Oncology, IRCCS Sacro Cuore Don Calabria, Negrar di Valpolicella, Italy"
+  - family-names: Naccarato
+    given-names: Stefania
+    affiliation: "Department of Advanced Radiation Oncology, IRCCS Sacro Cuore Don Calabria, Negrar di Valpolicella, Italy"
+  - family-names: Ruggieri
+    given-names: Ruggero
+    affiliation: "Department of Advanced Radiation Oncology, IRCCS Sacro Cuore Don Calabria, Negrar di Valpolicella, Italy"
+preferred-citation:
+  type: article
+  title: "Closed-form, engine-portable uncertainty prediction of deformable image registration for dose accumulation in adaptive radiotherapy"
+  journal: "Physics in Medicine and Biology"
+  year: 2026
+  authors:
+    - family-names: Ruggieri
+      given-names: Riccardo
+    - family-names: Bianchi
+      given-names: Nicola
+    - family-names: Naccarato
+      given-names: Stefania
+    - family-names: Ruggieri
+      given-names: Ruggero

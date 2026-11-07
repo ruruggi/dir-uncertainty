@@ -1,0 +1,19 @@
+# data, weights and outputs are never committed
+data/
+models/
+results/
+_out_*/
+**/results/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editors
+*.stackdump
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
